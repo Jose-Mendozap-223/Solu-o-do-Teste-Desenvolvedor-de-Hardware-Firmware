@@ -1,4 +1,4 @@
-# Solu-o-do-Teste-Desenvolvedor-de-Hardware-Firmware
+# Resolvendo Teste Desenvolvedor-de-Hardware-Firmware
 Neste repositório apresenta-se a resposta para o “Teste Situacional - Desenvolvedor de Hardware/Firmware” do candidato Jose Alfredo Mendoza Peñaloza, referente a um projeto de hardware embarcado para a detecção de um sinal externo e, a partir dele, acionar um motor por 10 segundos.
 
 1. Apresentam-se os arquivos Gerber e Drill para visualização no visualizador de sua preferência.
